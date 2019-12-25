@@ -1,0 +1,3 @@
+﻿  modulAsm.asm:7: warning: label alone on a line without a colon might be in error [-w+orphan-labels]
+  main.c
+  Lab12-Prb13.vcxproj -> C:\Users\Asus\Desktop\Assembly\LAB12-ASM+C\Lab12-Prb13\Debug\Lab12-Prb13.exe
